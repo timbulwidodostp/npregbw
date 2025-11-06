@@ -1,6 +1,8 @@
 # npregbw
 Kernel Regression Bandwidth Selection with Mixed Data Types Use npregbw (np) With (In) R Software
 
+https://www.youtube.com/watch?v=wU8a_D9IsBU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
